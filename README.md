@@ -3,7 +3,7 @@
 FireBaseVenom
 =============
 A Firebase Wrapper-Library made to simplify mobile-backend programming on android
-with inclusive time and date formating options
+with inclusive time and date formating options.
 
 ## Quick Start
 
@@ -20,11 +20,11 @@ with inclusive time and date formating options
 - *public constants*
 
 ```java
-       public static String TAG;
-       public static final boolean NO_TIMESTAMP;
-       public static final boolean YES_TIMESTAMP;
-       public static final boolean NO_PUSH;
-       public static final boolean YES_PUSH;
+       public static String TAG
+       public static final boolean NO_TIMESTAMP
+       public static final boolean YES_TIMESTAMP
+       public static final boolean NO_PUSH
+       public static final boolean YES_PUSH
        public static final String[] DATE_FORMAT_STRINGS
 ```
 
