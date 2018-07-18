@@ -3,7 +3,7 @@
 FireBaseVenom
 =============
 A Firebase Wrapper-Library made to simplify mobile-backend programming on android
-with inclusive time and date formating options.
+with inclusive time and date formating options
 
 ## Quick Start
 
